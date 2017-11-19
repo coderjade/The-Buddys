@@ -1,0 +1,14 @@
+<!DOCKTYPE>
+<html>
+<head>
+<title>About Us</title>
+<link type="text/css" rel=stylesheet"
+href="css/stylesheet.css"/>
+</head>
+<body>
+<h1>About Us</h1>
+<p>bloo bloo</p>
+<p>Im Jade and my friend is Brady<p>
+<p>click this link to find something that we like.<p>
+</body>
+</html>
